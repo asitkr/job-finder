@@ -1,70 +1,77 @@
-# Job Portal
+# <h1>Movie-DataBase (Using React)</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About
 
-## Available Scripts
+Movie-DataBase is an amazing app through which you can find shows you love more easily. Want to know more about movie you like ? Movie-DataBase is one place where you will find everything. Select the tag and start browsing NOW !.
 
-In the project directory, you can run:
 
-### `npm start`
+# Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Use "npm start" to run this project after cloning. Run "server.js" on seperate terminal.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Features
 
-### `npm test`
+ The following features are implemented in this project :-
+        <ol>
+            <li>Find Various Movies with just a click.</li>
+            <li>Beautiful and aesthethic User Interface which lets you browse with ease.</li>
+            <li>Clicking on the Movie poster shows more information regarding it.</li>
+            <li>Dark Theme throughout the page lets you find shows you love with ease.</li>
+        </ol>
+        
+# Tech Stacks     
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The following tech stacks are used to build this project :-
+        <ol>
+            <li>React JS</li>
+            <li>Fetch API</li>
+            <li>MongoDB</li>
+            <li>Node JS</li>
+            <li>Express JS</li>
+            <li>CSS</li>
+        </ol>
+        
+ # Link 
 
-### `npm run build`
+Click&nbsp;<a href="https://chic-cobbler-f59be8.netlify.app/">Here</a>&nbsp;to see this Project.
+        
+# Pages
+This website has 3 main routes :-
+1. Home Page :- Home Page shows all the movies present in the DB.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ <img src="https://i.imgur.com/gfU68bc.png" alt="Main.png">
+ <img src="https://i.imgur.com/69oLFBY.png" alt="Main.png">
+ <img src="https://i.imgur.com/XCSna2b.png" alt="Main.png">
+2. MyMovies :- Here LoggedIn user can see his collection of movies as well as manage it.
+ 
+ Add Items
+ 
+  <img src="https://i.imgur.com/Gp7suGN.png" alt="Main.png">
+ 
+3. LogIn/SignUp Page :- Users can login and sign up using this page.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ <img src="https://i.imgur.com/byJqceV.png" alt="Main.png">
+ 
+ 
+ If user is logged out 
+ 
+ <img src="https://i.imgur.com/Ni53cfO.png" alt="Main.png">
+ 
+# Inspiration & Difficulties
+In this project first I have to think and learned about the structure and layout of web Application.After that I learned how to get the userData and movies Data.Then i think how to structure my backend using Node and Express.In this I also learned about various hooks and some more property of a CSS and designing the front-end part also.Thankyou
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# API Calls
+Various APIs provide means to add, delete, edit an item in the database. They are as follows :-
+<ol>
+  <li><strong>"/api/getSingleItem"</strong> - for getting a single Item (for Edit).</li>
+  <li><strong>"/api/getItems"</strong> - To get all items present in DB.</li>
+  <li><strong>"/api/addItems"</strong> - To add Item in the DB.</li>
+  <li><strong>"/api/deleteItem"</strong> - To Delete an Item in DB.</li> 
+  <li><strong>"/api/getUsers"</strong> - To get details of all users.</li> 
+  <li><strong>"/api/getSingleUser"</strong> - To get details of single user using query parameters.</li> 
+  <li><strong>"/api/updateUser"</strong> - To update data of user.</li> 
+  <li><strong>"/api/addUser"</strong> - To add an user.</li> 
+</ol>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
