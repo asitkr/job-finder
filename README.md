@@ -1,20 +1,24 @@
-# <h1>Movie-DataBase (Using React)</h1>
+# <h1>Job Portal (Using React)</h1>
 
 # About
 
-Movie-DataBase is an amazing app through which you can find shows you love more easily. Want to know more about movie you like ? Movie-DataBase is one place where you will find everything. Select the tag and start browsing NOW !.
+Job Portal is an amazing app through which you can find jobs more easily on daily basis. Want to know more about job details? Job Portal is one platform where you will find on the basis of your own skills. Select the tag and start browsing NOW!
 
 
 # Requirements
 
-Use "npm start" to run this project after cloning. Run "server.js" on seperate terminal.
+Use "npm start" to run this project after cloning the project.
 
 # Features
 
- The following features are implemented in this project :-
+ The following features are implemented in this project:-
         <ol>
-            <li>Find Various Movies with just a click.</li>
-            <li>Beautiful and aesthethic User Interface which lets you browse with ease.</li>
+            <li>First you have to register yourself</li>
+            <li>Your data will be stored in localstorage</li>
+            <li>After registering you will be navigated to the login component</li>
+            <li>Then login with your details at the time of registering your data will stored in sessionstorage</li>
+            <li>After Login you will be redirected to the landing page, where you can find the jobs based on skills</li>
+            <li></li>
             <li>Clicking on the Movie poster shows more information regarding it.</li>
             <li>Dark Theme throughout the page lets you find shows you love with ease.</li>
         </ol>
