@@ -31,7 +31,7 @@ Getting rest API from the RapidApi.com
         
 # Tech Stacks     
 
-The following tech stacks are used to build this project :-
+The following tech stacks are used to build this project:-
         <ol>
             <li>HTML</li>
             <li>CSS</li>
@@ -54,38 +54,26 @@ The following tech stacks are used to build this project :-
 Click&nbsp;<a href="https://job-finder-rho-weld.vercel.app/">Here</a>&nbsp;to see this Project.
         
 # Pages
-This website has 6 main routes :-
-1. Login Page:- Home Page shows all the movies present in the DB.
-
+This website has 6 main routes:-
+1. Login Page:- Login Page to login.
  <img src="https://i.imgur.com/wbyZGe9.png" alt="Main.png">
-2. Regster:- Here LoggedIn user can see his collection of movies as well as manage it.
  
+2. Register:- Register yourself to allow the jobs.
   <img src="https://i.imgur.com/nN2GwXH.png" alt="Main.png">
  
-3. Landing Page:- Users can login and sign up using this page.
-
+3. Landing Page:- Users can find the jobs and see the details of particular jobs using this page.
  <img src="https://i.imgur.com/Oxp9V1i.png" alt="Main.png">
  
+4. Success Page:- Users can find jobs using this page.
+ <img src="https://i.imgur.com/aXE1Mzj.png" alt="Main.png">
  
- If user is logged out 
+5. Job Details Page:- Users can get details of a particular job and able to apply for that job using this page.
  
- <img src="https://i.imgur.com/Ni53cfO.png" alt="Main.png">
+6. Apply Page:- Users can apply for jobs just giving basic details, just as name, email, cover letter, and resume using this page.
  
 # Inspiration & Difficulties
-In this project first I have to think and learned about the structure and layout of web Application.After that I learned how to get the userData and movies Data.Then i think how to structure my backend using Node and Express.In this I also learned about various hooks and some more property of a CSS and designing the front-end part also.Thankyou
-
-# API Calls
-Various APIs provide means to add, delete, edit an item in the database. They are as follows :-
-<ol>
-  <li><strong>"/api/getSingleItem"</strong> - for getting a single Item (for Edit).</li>
-  <li><strong>"/api/getItems"</strong> - To get all items present in DB.</li>
-  <li><strong>"/api/addItems"</strong> - To add Item in the DB.</li>
-  <li><strong>"/api/deleteItem"</strong> - To Delete an Item in DB.</li> 
-  <li><strong>"/api/getUsers"</strong> - To get details of all users.</li> 
-  <li><strong>"/api/getSingleUser"</strong> - To get details of single user using query parameters.</li> 
-  <li><strong>"/api/updateUser"</strong> - To update data of user.</li> 
-  <li><strong>"/api/addUser"</strong> - To add an user.</li> 
-</ol>
+In this project first I have to think and learn about the structure and layout of web Applications.After that, I learned how to get the userData and redux.
+Find the free API.
 
 
  
