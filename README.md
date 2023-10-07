@@ -18,7 +18,8 @@ Use "npm start" to run this project after cloning the project.
             <li>After registering you will be navigated to the login component</li>
             <li>Then login with your details at the time of registering your data will stored in sessionstorage</li>
             <li>After Login you will be redirected to the landing page, where you can find multiple jobs based on skills</li>
-            <li>If you want to be see the details of any job. So, there is a button where you can see the job details.</li>
+            <li>If you want to see the details of any job. So, there is a button where you can see the job details.</li>
+            <li>Aftere clicking the job details button you will be redirected to that component where you get more details about the specific job description of job</li>
             <li>Clicking on the Movie poster shows more information regarding it.</li>
             <li>Dark Theme throughout the page lets you find shows you love with ease.</li>
         </ol>
