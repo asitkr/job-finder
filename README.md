@@ -51,11 +51,11 @@ The following tech stacks are used to build this project :-
         
  # Link 
 
-Click&nbsp;<a href="https://chic-cobbler-f59be8.netlify.app/">Here</a>&nbsp;to see this Project.
+Click&nbsp;<a href="https://job-finder-rho-weld.vercel.app/">Here</a>&nbsp;to see this Project.
         
 # Pages
-This website has 3 main routes :-
-1. Home Page :- Home Page shows all the movies present in the DB.
+This website has 6 main routes :-
+1. Login Page :- Home Page shows all the movies present in the DB.
 
  <img src="https://i.imgur.com/gfU68bc.png" alt="Main.png">
  <img src="https://i.imgur.com/69oLFBY.png" alt="Main.png">
