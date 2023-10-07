@@ -43,9 +43,10 @@ The following tech stacks are used to build this project :-
 # NPM library
 
  <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Redux</li>
+  <li>react-redux</li>
+  <li>react-router-dom</li>
+  <li>axios</li>
  </ol>
         
  # Link 
