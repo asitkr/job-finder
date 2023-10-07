@@ -55,20 +55,16 @@ Click&nbsp;<a href="https://job-finder-rho-weld.vercel.app/">Here</a>&nbsp;to se
         
 # Pages
 This website has 6 main routes :-
-1. Login Page :- Home Page shows all the movies present in the DB.
+1. Login Page:- Home Page shows all the movies present in the DB.
 
  <img src="https://i.imgur.com/wbyZGe9.png" alt="Main.png">
- <img src="https://i.imgur.com/69oLFBY.png" alt="Main.png">
- <img src="https://i.imgur.com/XCSna2b.png" alt="Main.png">
-2. MyMovies :- Here LoggedIn user can see his collection of movies as well as manage it.
+2. Regster:- Here LoggedIn user can see his collection of movies as well as manage it.
  
- Add Items
+  <img src="https://i.imgur.com/nN2GwXH.png" alt="Main.png">
  
-  <img src="https://i.imgur.com/Gp7suGN.png" alt="Main.png">
- 
-3. LogIn/SignUp Page :- Users can login and sign up using this page.
+3. Landing Page:- Users can login and sign up using this page.
 
- <img src="https://i.imgur.com/byJqceV.png" alt="Main.png">
+ <img src="https://i.imgur.com/Oxp9V1i.png" alt="Main.png">
  
  
  If user is logged out 
